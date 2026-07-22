@@ -4,6 +4,10 @@ A browser (Emscripten/WebAssembly) build of the SHAR engine, running via WebGL
 with pthreads. This repository contains **only the compiled engine** — no game
 data is included.
 
+📦 **Source code:** https://github.com/iscle/The-Simpsons-Hit-and-Run/tree/wasm-port
+(the engine + the Emscripten/WASM port; a fork of ZenoArrows' repo). This repo
+holds just the prebuilt output that GitHub Pages serves.
+
 ▶ **Play:** https://iscle.github.io/the-simpsons-hit-and-run-wasm/?assets=YOUR_ASSET_URL
 
 ## You must supply your own game data
